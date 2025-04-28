@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.hero {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.hero img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.benefits {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.benefit-item {
+    display: inline-block;
+    margin: 20px;
+    width: 200px;
+}
+
+.benefit-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.cta {
+    background-color: #f7f7f7;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.cta button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cta button:hover {
+    background-color: #0056b3;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #777;
+    background-color: #f1f1f1;
+}
